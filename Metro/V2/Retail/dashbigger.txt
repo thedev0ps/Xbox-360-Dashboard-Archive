@@ -1,0 +1,3 @@
+Some of these extracted update files both had a dashboard in the su20076000_00000000 file and loose in the directory.
+The files in su20076000_00000000 are ~5MB whereas the loose files are 15MB.
+For this reason the loose files are the dashbigger.xex files.
